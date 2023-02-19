@@ -1,0 +1,63 @@
+{
+    "posts": [{
+            "id": 4,
+            "title": "json-server",
+            "img": "",
+            "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia odio minima fugit velit, Loreipsum dolor sit amet consectetur adipisicing elit. Quia odio minima fugit velit, accusamus minus sit natu quos cumque distinctio dolorum animi laboriosam aut autem maxime nostrum quibusdam molestiae? Inventore, ullam neque? Aspernatur blanditiis beatae officiis sit porro mollitia quis,eos maiores corrupti,repellendus suscipit hic voluptate vel ipsam minima.Praesentium totam deserunt impedit ab temporibus quisquam ipsa eligendi!Deserunt,ut molestias ducimus totamreiciendis in suscipit corrupti vero cupiditate laudantium provident aperiam voluptas,odio voluptatibus hic reprehenderit,maxime ratione at consectetur atque laborum velit dicta ipsa.Autem,,  ",
+            "likes": 0,
+            "date": "2023-02-17"
+        },
+        {
+            "id": 5,
+            "title": "dfv-server",
+            "img": "",
+            "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia odio minima fugit velit, Loreipsum dolor sit amet consectetur adipisicing elit. Quia odio minima fugit velit, accusamus minus sit natu quos cumque distinctio dolorum animi laboriosam aut autem maxime nostrum quibusdam molestiae? Inventore, ullam neque? Aspernatur blanditiis beatae officiis sit porro mollitia quis,eos maiores corrupti,repellendus suscipit hic voluptate vel ipsam minima.Praesentium totam deserunt impedit ab temporibus quisquam ipsa eligendi!Deserunt,ut molestias ducimus totamreiciendis in suscipit corrupti vero cupiditate laudantium provident aperiam voluptas,odio voluptatibus hic reprehenderit,maxime ratione at consectetur atque laborum velit dicta ipsa.Autem,,",
+            "likes": 3,
+            "date": "2023-02-17"
+        },
+        {
+            "title": "hello from date",
+            "img": "C:\\Users\\Kayiranga\\Pictures\\insights.JPG",
+            "body": "try by date utomatically",
+            "likes": 0,
+            "date": "2023-02-18T14:42:57.065Z",
+            "id": 6
+        }
+    ],
+    "comments": [{
+            "id": 4,
+            "body": "some comment",
+            "postId": 4
+        },
+        {
+            "id": 5,
+            "body": "some comment",
+            "postId": 5
+        },
+        {
+            "name": "MUTABARUKA Japhet",
+            "body": "love it",
+            "date": "2023-02-18T15:22:13.502Z",
+            "postId": "6",
+            "id": 6
+        },
+        {
+            "name": "subtles of not giving fuck",
+            "body": "amazing",
+            "date": "2023-02-18T15:23:29.874Z",
+            "postId": "6",
+            "id": 7
+        }
+    ],
+    "users": [{
+        "name": "japheth",
+        "password": "12345"
+    }],
+    "messages": [{
+        "name": "kalisa",
+        "email": "japheth@gmail.com",
+        "body": "how are you",
+        "date": "2023-02-18T15:54:25.266Z",
+        "id": 2
+    }]
+}
